@@ -3,4 +3,5 @@
 
 I'm currently working on projects in
 - Laravel
-- React
+- Vue.js
+- React.js
